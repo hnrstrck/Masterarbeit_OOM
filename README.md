@@ -16,7 +16,7 @@ Das PDF wurde extra für die Veröffentlichung in diesem Git-Repository gesetzt.
 
 Die für die Masterarbeit geschriebenen Java-Klassen, Arbeitsblätter und sonstigen Materialien sind im Repository 
 
-	/hnrstrck/rpCollection
+	https://github.com/hnrstrck/rpCollection
 	
 zu finden ([Link](https://github.com/hnrstrck/rpCollection)).
 
